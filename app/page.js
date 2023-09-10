@@ -69,7 +69,7 @@ export default function Home() {
 
       </div>
       <div className="bg-[#2370C8] my-5 md:my-12 py-5 md:py-14 text-white">
-        <h1 className="text-center text-xl md:text-3xl  font-semibold">We're trusted by clients.</h1>
+        <h1 className="text-center text-xl md:text-3xl  font-semibold">We are trusted by clients.</h1>
         <div className="grid gap-5  grid-cols-1 md:grid-cols-2 md:mx-44 w-3/4 mx-auto">
            <ClientsCard text="Consultant" title="Mina Watson"/>
            <ClientsCard text="IT Specialist" title="Edward Hunter"/>
