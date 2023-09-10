@@ -5,7 +5,7 @@ export default function AboutUsSection() {
   return (
     <div className="container  my-5 md:my-14 lg:my-20 px-5 md:px-16 lg:px-16 grid grid-cols-1 lg:grid-cols-2 md:grid-cols-1 ">
       <div className="left ">
-             <Image src={'/imgs/soft1.jpg'} width={300} height={300} className="w-full  p-5"/>
+             <Image src={'/imgs/soft.png'} width={300} height={300} className="w-full  p-5 md:h-[400px]"/>
       </div>
       <div className="right ml-6 md:ml-12 md:pt-5 ">
             <h1 className="text-[#2370C8] text-[28px] font-semibold">About us</h1>
